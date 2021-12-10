@@ -1,4 +1,4 @@
-name: mkyan
+name: rdp
 
 on: workflow_dispatch
 
